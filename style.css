@@ -1,0 +1,32 @@
+body{
+	background:#000;
+	font-family: tahoma;
+}
+
+
+*{
+	box-sizing: border-box;
+}
+
+section{
+	width:50%;
+	margin:5rem auto;
+	
+}
+
+
+
+
+
+
+
+#clock{
+	
+	text-align: center;
+	padding:1rem;
+	font-size:10rem;
+	color:#fff;
+	margin:0 auto;
+
+	
+}
